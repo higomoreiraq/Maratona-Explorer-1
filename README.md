@@ -11,6 +11,7 @@ iniciantes ou em busca de transição de carreira para se tornar um Desenvolvedo
 ## Descrição
 
 A aplicação tem uma única funcionalidade: responder às perguntas do usuário.
+
 As respostas estão listadas em um Array, onde o número da posição de cada elemento seu é sorteado aleatoriamente através da função Math.random(),
 que será mostrado em tela ao clicar em "Fazer pergunta".
 
@@ -46,6 +47,7 @@ beginners or looking for a career transition to become a developer.
 ## Description
 
 The application has a single functionality: answering user questions.
+
 The answers are listed in an Array, where the position number of each element is randomly selected through the Math.random() function,
 which will be shown on screen when clicking on "Ask question".
 
