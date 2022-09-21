@@ -23,7 +23,7 @@ que será mostrado em tela ao clicar em "Fazer pergunta".
 
 ## Preview
 
-Para acessar o projeto, acesse:
+Para conferir o projeto, acesse:
 
 - https://higomoreiraq.github.io/Maratona-Explorer-1/
 
@@ -59,7 +59,7 @@ which will be shown on screen when clicking on "Ask question".
 
 ## Preview
 
-To access the project, go to:
+To see the project, visit:
 
 - https://higomoreiraq.github.io/Maratona-Explorer-1/
 
