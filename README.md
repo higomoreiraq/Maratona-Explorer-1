@@ -25,7 +25,7 @@ que será mostrado em tela ao clicar em "Fazer pergunta".
 
 Para conferir o projeto, acesse:
 
-- https://higomoreiraq.github.io/Maratona-Explorer-1/
+- https://higomoreiraq.github.io/maratona-explorer/
 
 ## Contato
 
@@ -61,7 +61,7 @@ which will be shown on screen when clicking on "Ask question".
 
 To see the project, visit:
 
-- https://higomoreiraq.github.io/Maratona-Explorer-1/
+- https://higomoreiraq.github.io/maratona-explorer/
 
 ## Contact
 
