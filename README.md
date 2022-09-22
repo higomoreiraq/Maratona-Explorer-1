@@ -1,4 +1,4 @@
-# Primeira Maratona Explorer 🚀
+# Primeira Maratona Explorer 🔮
 
 ## Evento de lançamento da turma 03 do programa Explorer
 
@@ -37,7 +37,7 @@ Para conferir o projeto, acesse:
 
 
 
-# First Explorer Marathon 🚀
+# First Explorer Marathon 🔮
 
 ## Explorer program class 03 launch event
 
